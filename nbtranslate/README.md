@@ -1,6 +1,6 @@
 # NBTranslate
 
-`NBTranslate` translates jupyter notebook cells markdown cells into Russian.
+`NBTranslate` translates jupyter notebook markdown cells into Russian.
 
 ## Installation
 
